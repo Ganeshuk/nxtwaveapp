@@ -1,0 +1,22 @@
+
+.back{
+    position:absolute;
+    top:0;
+    left:0;
+    background-color: transparent;
+    backdrop-filter: blur(20px);
+    height: 100%;
+    width:100%;
+}
+h1{
+    text-align: center;
+}
+ul{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+li{
+    margin:10px;
+}
